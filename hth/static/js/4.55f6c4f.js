@@ -1,0 +1,1 @@
+webpackJsonp([4],{GyoY:function(o,c,i){o.exports=i.p+"static/img/favicon.34f1779.ico"}});
