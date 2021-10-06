@@ -20,5 +20,5 @@ function download() {
 
 // 客服链接
 function kefu() {
-    window.location.href = "tencent://message/?uin=270212444&Site=&Menu=yes";
+    window.location.href = "http://wpa.qq.com/msgrd?v=3&uin=270212444&site=qq&menu=yes";
 }
