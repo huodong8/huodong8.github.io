@@ -20,5 +20,10 @@ function download() {
 
 // 客服链接
 function kefu() {
-    window.location.href = "tencent://message/?uin=270212444&Site=&Menu=yes";
-}
+	  var text = "270212444";
+      var input = document.getElementById("input");
+      input.value = text; // 修改文本框的内容
+      input.select(); // 选中文本
+      document.execCommand("copy"); // 执行浏览器复制命令
+      alert("客服QQ复制成功");
+    }
