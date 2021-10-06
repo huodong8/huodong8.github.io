@@ -17,3 +17,8 @@ function download() {
     window.location.href = "https://www.htvip48.app:9960/?i_code=7381993";
 }
 
+
+// 客服链接
+function kefu() {
+    window.location.href = "tencent://message/?uin=270212444&Site=&Menu=yes";
+}
