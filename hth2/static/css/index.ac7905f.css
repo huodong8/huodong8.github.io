@@ -679,7 +679,7 @@ body .layui-m-layer .layui-m-layer-msg{
 }
 .app #m_only footer .footTop{display:-webkit-box;display:-ms-flexbox;display:flex;padding:0.15rem 0;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center
 }
-.app #m_only footer .footTop .regLink{display:block;width:1.9rem;height:0.4rem;margin-right:0.2rem;line-height:0.4rem;text-align:center;font-size:18px;border-radius:0.2rem;color:#fff;font-weight:600;text-shadow:0 0 1px #2d2525;background:-webkit-gradient(linear, left top, right top, from(#5af2ff), to(#31c3ff));background:-webkit-linear-gradient(left, #5af2ff, #31c3ff);background:-o-linear-gradient(left, #5af2ff, #31c3ff);background:linear-gradient(90deg, #5af2ff, #31c3ff)
+.app #m_only footer .footTop .regLink{display:block;width:1.4rem;height:0.4rem;margin-right:0.2rem;line-height:0.4rem;text-align:center;font-size:18px;border-radius:0.2rem;color:#fff;font-weight:600;text-shadow:0 0 1px #2d2525;background:-webkit-gradient(linear, left top, right top, from(#5af2ff), to(#31c3ff));background:-webkit-linear-gradient(left, #5af2ff, #31c3ff);background:-o-linear-gradient(left, #5af2ff, #31c3ff);background:linear-gradient(90deg, #5af2ff, #31c3ff)
 }
 .app #m_only footer .footTop .qqKefu{display:block;width:1.35rem;height:0.4rem;line-height:0.4rem;text-align:center;font-size:18px;border-radius:0.2rem;color:#fff;font-weight:600;text-shadow:0 0 1px #2d2525;background:-webkit-gradient(linear, left top, right top, from(#29ffaa), to(#00de7b));background:-webkit-linear-gradient(left, #29ffaa, #00de7b);background:-o-linear-gradient(left, #29ffaa, #00de7b);background:linear-gradient(90deg, #29ffaa, #00de7b)
 }
