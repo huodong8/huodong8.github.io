@@ -1,7 +1,7 @@
 var config =  {
   title: "", //站点名称
 
-  regLink_h5: "https://www.hthty601.com:9133/entry/register/?i_code=7381993", //手机h5端 注册链接
+  regLink_h5: "https://www.hthty614.com:7443/entry/register/?i_code=7381993", //手机h5端 注册链接
   regLink_pc: "https://www.htvip48.app:9960/?i_code=7381993", //pc端 注册链接
   
 
