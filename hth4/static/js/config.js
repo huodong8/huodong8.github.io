@@ -1,8 +1,8 @@
 var config =  {
   title: "", //站点名称
    //9
-  regLink_h5: "https://www.mt2kjg6.com/entry/register/?i_code=6301433", //手机h5端 注册链接
-  regLink_pc: "https://www.mt2kjg6.com/?i_code=6301433", //pc端 注册链接
+  regLink_h5: "https://www.mvrglf4.com/entry/register/?i_code=6301433", //手机h5端 注册链接
+  regLink_pc: "https://www.mvrglf4.com/?i_code=6301433", //pc端 注册链接
   
 
   qq:[
