@@ -1,8 +1,8 @@
 var config =  {
   title: "", //站点名称
    //9
-  regLink_h5: "https://www.hthvip54.com:9010/entry/register/?i_code=6301433", //手机h5端 注册链接
-  regLink_pc: "https://www.hthvip54.com:9010/?i_code=6301433", //pc端 注册链接
+  regLink_h5: "https://www.hth458.com:9978/entry/register/?i_code=6301433", //手机h5端 注册链接
+  regLink_pc: "https://www.hth458.com:9978/?i_code=6301433", //pc端 注册链接
   
 
   qq:[
