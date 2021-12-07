@@ -1,8 +1,8 @@
 var config =  {
   title: "", //站点名称
    //9
-  regLink_h5: "https://https://www.t8kka.com:9443/entry/register/?i_code=6301433", //手机h5端 注册链接
-  regLink_pc: "https://www.o412r.com:6001/register/?i_code=6301433", //pc端 注册链接
+  regLink_h5: "https://www.oii7t.com:7988/entry/register/?i_code=6301433", //手机h5端 注册链接
+  regLink_pc: "https://www.o412r.com:7988/register/?i_code=6301433", //pc端 注册链接
   
 
   qq:[
