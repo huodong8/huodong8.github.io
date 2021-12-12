@@ -2,7 +2,7 @@ var config =  {
   title: "", //站点名称
    //9
   regLink_h5: "https://www.hth464.com:9515/entry/register/?i_code=6301433", //手机h5端 注册链接
-  regLink_pc: "https://www.hth461.com:9518/register/?i_code=6301433", //pc端 注册链接
+  regLink_pc: "https://www.kpz9b.com:9663/register/?i_code=6301433", //pc端 注册链接
   
 
   qq:[
